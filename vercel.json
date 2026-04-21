@@ -1,0 +1,18 @@
+
+elearninfotech1_db_user
+cSsjoxWTQd3970Gd
+
+mongodb+srv://elearninfotech1_db_user:cSsjoxWTQd3970Gd@mern8amapril.d8afxrk.mongodb.net/sample111?appName=mern8amapril
+
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
+
+
+
+
+
+
+
